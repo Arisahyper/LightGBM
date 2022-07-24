@@ -1,2 +1,1 @@
 # LightGBM
-LightGBM-Learn
